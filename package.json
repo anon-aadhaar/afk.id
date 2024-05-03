@@ -1,0 +1,13 @@
+{
+  "name": "afk.id",
+  "version": "0.0.1",
+  "description": "A decentralized protocol for storing real-world identities and selectively disclosing them to other parties.",
+  "repository": "git@github.com:anon-aadhaar/afk.id.git",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}

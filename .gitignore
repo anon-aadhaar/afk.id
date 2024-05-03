@@ -1,0 +1,9 @@
+dist
+build
+node_modules
+*.log
+artifacts
+.vscode
+.yarn-integrity
+.DS_Store
+.env
