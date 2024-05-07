@@ -1,0 +1,9 @@
+{
+  "name": "@afk.id/utils",
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@ethersproject/keccak256": "^5.7.0"
+  }
+}

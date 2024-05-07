@@ -5,9 +5,7 @@
   "repository": "git@github.com:anon-aadhaar/afk.id.git",
   "license": "MIT",
   "private": true,
-  "workspaces": {
-    "packages": [
-      "packages/*"
-    ]
-  }
+  "workspaces": [
+    "packages/*"
+  ]
 }
